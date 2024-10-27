@@ -7,7 +7,9 @@ tech:
   - Machine Learning
   - Recommender Systems
   - Data Science
-showInProjects: true
+
+company: 'Udacity'
+showInProjects: false
 ---
 
 A recommendation system developed to enhance user experiences by providing personalized content suggestions using machine learning techniques.

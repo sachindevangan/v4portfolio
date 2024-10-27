@@ -8,7 +8,9 @@ tech:
   - Natural Language Processing
   - SQL
   - Flask
-showInProjects: true
+
+company: 'Stevens Institute of Technology'
+showInProjects: false
 ---
 
 A machine learning pipeline for classifying disaster response messages, using natural language processing to prioritize urgent cases. It includes a Flask web app for real-time message classification and a SQL database for data storage.

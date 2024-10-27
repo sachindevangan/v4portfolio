@@ -7,7 +7,7 @@ tech:
   - TensorFlow
   - LSTM
 company: 'Udacity'
-showInProjects: true
+showInProjects: false
 ---
 
 Building a custom multisite compatible WordPress plugin to build global search with Algolia
