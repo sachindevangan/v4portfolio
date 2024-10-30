@@ -1,0 +1,15 @@
+.icon-loader {
+  animation: pulseGlow 2s infinite;
+}
+
+@keyframes pulseGlow {
+  0%,
+  100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 5px #00ffff) drop-shadow(0 0 10px #00ffff);
+  }
+  50% {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 10px #00ffff) drop-shadow(0 0 20px #00ffff);
+  }
+}

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-11'
 title: 'GraphQL Client for Marvel Authors and Books'
-external: https://github.com/sachindevangan/-GraphQL-Client-for-Marvel-Authors-and-Books'
+external: 'https://github.com/sachindevangan/-GraphQL-Client-for-Marvel-Authors-and-Books'
 tech:
   - React or Next.js
   - Apollo Client

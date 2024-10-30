@@ -11,16 +11,8 @@ module.exports = {
       url: 'https://www.instagram.com/sachindevangan',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sachindevangan',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
   ],
 

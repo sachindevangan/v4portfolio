@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'SLR Alphabet Recognizer'
-cover: './course-card.png'
+cover: './SLR.png'
 github: https://github.com/sachindevangan/sign-language-alphabet-recognizer
 cta: https://github.com/sachindevangan
 tech:

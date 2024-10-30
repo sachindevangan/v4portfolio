@@ -1,7 +1,7 @@
 ---
 date: '2023-11-21'
 title: 'Marvel Comic Collecting Application'
-external: 'https://developer.marvel.com'
+external: 'https://github.com/sachindevangan/Marvel-Comic-Collecting-Application'
 tech:
   - React
   - Redux
