@@ -5457,7 +5457,7 @@ gatsby-plugin-google-analytics@^3.4.0:
     minimatch "3.0.4"
     web-vitals "^1.1.2"
 
-gatsby-plugin-image@^1.4.0:
+gatsby-plugin-image@^1.15.0:
   version "1.15.0"
   resolved "https://registry.npmjs.org/gatsby-plugin-image/-/gatsby-plugin-image-1.15.0.tgz"
   integrity sha512-hqPfu2jxLulBizN9okPo5sdKe4l5OvP9NsJ5n4F30SLpXFVvkkV7RAWv/3ZU+ZV/znYFdSqsJtUchUH6BpCzug==

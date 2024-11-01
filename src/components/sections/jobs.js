@@ -27,7 +27,7 @@ const StyledJobsSection = styled.section`
 const StyledTabList = styled.div`
   position: relative;
   z-index: 3;
-  width: max-content;
+  width: 100%;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -35,32 +35,20 @@ const StyledTabList = styled.div`
   @media (max-width: 600px) {
     display: flex;
     overflow-x: auto;
-    width: calc(100% + 100px);
-    padding-left: 50px;
-    margin-left: -50px;
+    padding-left: 0;
+    margin-left: 0;
     margin-bottom: 30px;
   }
   @media (max-width: 480px) {
-    width: calc(100% + 50px);
-    padding-left: 25px;
-    margin-left: -25px;
+    padding-left: 0;
+    margin-left: 0;
   }
 
   li {
-    &:first-of-type {
-      @media (max-width: 600px) {
-        margin-left: 50px;
-      }
-      @media (max-width: 480px) {
-        margin-left: 25px;
-      }
-    }
+    &:first-of-type,
     &:last-of-type {
       @media (max-width: 600px) {
-        padding-right: 50px;
-      }
-      @media (max-width: 480px) {
-        padding-right: 25px;
+        padding: 0 10px;
       }
     }
   }
@@ -71,27 +59,29 @@ const StyledTabButton = styled.button`
   display: flex;
   align-items: center;
   width: 100%;
+  min-width: 150px;
   height: var(--tab-height);
-  padding: 0 20px 2px;
+  padding: 0 10px; 
   border-left: 2px solid var(--lightest-navy);
   background-color: transparent;
   color: ${({ isActive }) => (isActive ? 'var(--green)' : 'var(--slate)')};
   font-family: var(--font-mono);
   font-size: var(--fz-xs);
   text-align: left;
-  white-space: nowrap;
+  white-space: normal; 
 
   @media (max-width: 768px) {
     padding: 0 15px 2px;
   }
+
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
-    min-width: 120px;
-    padding: 0 15px;
-    border-left: 0;
-    border-bottom: 2px solid var(--lightest-navy);
+    min-width: 160px; 
+    padding: 0 1px;
+    font-size: var(--fz-sm); 
+    white-space: normal;
     text-align: center;
-  }
+    line-height: 1.2; 
 
   &:hover,
   &:focus {
