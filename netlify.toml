@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+  node_version = "14.16.0" 
