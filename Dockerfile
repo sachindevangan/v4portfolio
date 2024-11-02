@@ -19,5 +19,8 @@ RUN npm run build
 # 7. Install a simple HTTP server to serve the static files
 RUN npm install -g http-server
 
-# 8. Specify the command to run the server and serve the built site
-CMD ["http-server", "public"]
+# 8. Expose port 8080 to access the container externally
+EXPOSE 8080
+
+# 9. Specify the command to run the server and serve the built site on port 8080
+CMD ["http-server", "public", "-p", "8080"]
