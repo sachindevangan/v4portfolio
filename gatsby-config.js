@@ -5,8 +5,8 @@ module.exports = {
   siteMetadata: {
     title: 'Sachin Devangan',
     description:
-      'Sachin Devangan is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://sachindevangan.github.io/v4portfolio', // No trailing slash allowed!
+      'Sachin Devangan is a software engineer with a strong foundation in full-stack development, specializing in secure, scalable, and high-performance applications. Experienced in backend and frontend engineering, he focuses on creating user-focused digital solutions and optimizing system efficiency.',
+    siteUrl: 'https://sachindevangan.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
