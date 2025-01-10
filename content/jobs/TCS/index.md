@@ -3,7 +3,7 @@ date: '2023-09-01'
 title: 'Software Engineer'
 company: 'Tata Consultancy Services'
 location: 'Remote, USA'
-range: 'September 2023 – May 2024'
+range: 'April 2024 – Present'
 url: 'https://www.tcs.com'
 ---
 

@@ -3,7 +3,7 @@ date: '2023-05-01'
 title: 'Graduate Teaching Assistant'
 company: 'Stevens Institute of Technology'
 location: 'New Jersey, USA'
-range: 'May – September 2023'
+range: 'May 2023 – May 2024'
 url: 'https://www.stevens.edu/'
 ---
 
