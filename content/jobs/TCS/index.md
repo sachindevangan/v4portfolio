@@ -7,11 +7,11 @@ range: 'April 2024 – Present'
 url: 'https://www.tcs.com'
 ---
 
-- Developed a secure API with Java and Spring Boot, reducing data retrieval times by 30% for over 1 million patient records.
-- Built a React Native app with Firebase and GraphQL, increasing patient engagement by 25%.
-- Ensured HIPAA compliance with AES-256, OAuth 2.0, and RBAC, maintaining zero data breaches.
-- Migrated legacy systems to AWS, cutting maintenance costs by 20%.
-- Streamlined CI/CD with GitHub Actions, Docker, and Jenkins, reducing release times by 40%.
-- Enhanced testing and user satisfaction with JUnit, Postman, and UAT.
-- Monitored system performance with AWS CloudWatch and Grafana, implementing disaster recovery strategies.
-- Coordinated deployments and feature toggles with Git, Slack, and LaunchDarkly.
+- Architected and developed a secure financial application using Java and Spring Boot, optimizing transaction processing to handle up to 5,000 transactions per second.  
+- Designed a microservices architecture, accelerating development cycles by 30% and reducing maintenance overhead.  
+- Built responsive and interactive UIs with React.js, Vue.js, and Bootstrap, improving user engagement.  
+- Integrated MongoDB 5.0 for scalable data storage, ensuring smooth performance as data volumes grew.  
+- Automated CI/CD pipelines with Jenkins, cutting deployment times by 40% and minimizing manual errors.  
+- Achieved 85% code coverage with JUnit 5 and Mockito, improving software reliability and early bug detection.  
+- Monitored system performance with AWS CloudWatch, Prometheus, and Grafana, ensuring stability and rapid issue resolution.  
+
