@@ -150,20 +150,28 @@ const About = () => {
             </p>
 
             <p>
-              Since then, I've had the opportunity to work at
-              <a href="https://www.tcs.com/">TCS</a>, a major global corporation, where I designed
+              Since then, I've had the opportunity to work at{' '}
+              <a href="https://www.tcs.com/"> TCS</a>, a major global corporation, where I designed
               secure APIs, cross-platform apps, and complex cloud solutions that boosted user
               engagement and streamlined operations. I’ve also enjoyed guiding students as a
-              <a href="https://www.stevens.edu/">Teaching Assistant</a> at Stevens Institute of
-              Technology, helping them dive into the world of full-stack development with tools like
-              Node.js, MongoDB, and TypeScript.
+              Teaching Assistant at{' '}
+              <a href="https://www.stevens.edu/"> Stevens Institute of Technology</a>, helping them
+              dive into the world of full-stack development with tools like Node.js, MongoDB, and
+              TypeScript.
+            </p>
+
+            <p>
+              Currently, I’m a Full Stack Developer at{' '}
+              <a href="https://www.lpl.com/"> LPL Financial</a>, where I focus on building secure,
+              high-performance financial solutions. I lead the development of microservices-based
+              applications, optimize front-end experiences with React and TypeScript, and enhance
+              real-time event processing with Apache Kafka.
             </p>
 
             <p>
               Today, my focus is on developing reliable, secure, and user-friendly software
               solutions. I’m always excited to work on projects that integrate cutting-edge
-              technologies, from
-              <a href="https://aws.amazon.com/"> AWS </a> and{' '}
+              technologies, from <a href="https://aws.amazon.com/"> AWS </a> and{' '}
               <a href="https://kubernetes.io/">Kubernetes</a> to JavaScript frameworks and real-time
               data visualization.
             </p>
