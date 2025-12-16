@@ -1,14 +1,14 @@
 ---
-date: '2023-09-01'
-title: 'Software Engineer'
+date: '2024-04-01'
+title: 'Software Engineer, Cloud & Backend'
 company: 'Tata Consultancy Services'
-location: 'Remote, USA'
+location: 'Jersey City, NJ'
 range: 'April 2024 – September 2024'
 url: 'https://www.tcs.com'
 ---
 
-- Engineered a secure financial application using Spring Boot and React.js, processing up to 5,000 transactions per second.
-- Devised a modular microservices architecture with Node.js and RESTful APIs, cutting development cycles by 30%.
-- Crafted interactive user interfaces with React.js, Redux, HTML5, CSS3, and Bootstrap, boosting user engagement by 35% and usability by 20%.
-- Integrated scalable databases (MongoDB, MySQL, PostgreSQL, AWS RDS) to optimize data retrieval, reducing query response times by 40%.
-- Implemented automated CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment times by 40% and achieving 85% code coverage with rigorous testing and AWS CloudWatch monitoring.
+- Built and operated cloud-native backend services on AWS supporting large-scale data ingestion and asynchronous processing.
+- Implemented CI/CD pipelines for containerized services using Jenkins and GitHub Actions.
+- Optimized PostgreSQL schema design, indexing, and connection handling for high-concurrency workloads.
+- Developed secure REST APIs and background workers using Python and Java with Kafka-based event communication.
+- Debugged production issues across service performance, Linux resource usage, and networking behavior.
